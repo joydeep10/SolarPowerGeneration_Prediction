@@ -1,0 +1,13 @@
+{
+  "num_cols": [
+    "distance_to_solar_noon",
+    "temperature",
+    "wind_direction",
+    "wind_speed",
+    "sky_cover",
+    "visibility",
+    "humidity",
+    "average_wind_speed_period",
+    "average_pressure_period"
+  ]
+}
